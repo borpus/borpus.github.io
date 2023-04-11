@@ -2,8 +2,9 @@
 <head>
     <meta charset="UTF-8">
             </head>
-
-#DO YOU THINK THIS IS REAL!?!?
+<p>
+DO YOU THINK THIS IS REAL!?!?
+</p>
 
 <body>
 
@@ -18,4 +19,5 @@ Don't think this is real? <a href="https://www.youtube.com/shorts/MbKf_f0VkHE">T
 
 p {
     color: red;
+    fontsize: 25;
 }
