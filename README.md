@@ -16,6 +16,6 @@ Don't think this is real? <a href="https://www.youtube.com/shorts/MbKf_f0VkHE">T
 
 </body>
 
-p{
+p {
     color: red;
 }
