@@ -3,12 +3,11 @@
     <meta charset="UTF-8">
             </head>
 
-<body>
-<title>
-                DO YOU THINK THIS IS REAL!?!?
-            </title>
+#DO YOU THINK THIS IS REAL!?!?
 
-            <img src="https://i.kym-cdn.com/photos/images/original/002/316/919/9de.jpg" alt="Strawberry Elephant">
+<body>
+
+<img src="https://i.kym-cdn.com/photos/images/original/002/316/919/9de.jpg" alt="Strawberry Elephant">
 
 
 <p>
@@ -17,6 +16,6 @@ Don't think this is real? <a href="https://www.youtube.com/shorts/MbKf_f0VkHE">T
 
 </body>
 
-title {
+p{
     color: red;
 }
