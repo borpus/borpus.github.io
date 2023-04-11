@@ -19,5 +19,5 @@ Don't think this is real? <a href="https://www.youtube.com/shorts/MbKf_f0VkHE">T
 
 p {
     color: red;
-    fontsize: 25;
+    fontsize: 25px;
 }
