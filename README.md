@@ -7,4 +7,6 @@
 
                 DO YOU THINK THIS IS REAL!?!?
             </body>
+
+            <img src="9de.jpg" alt="Strawberry Elephant">
 </html>
